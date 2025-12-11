@@ -1,7 +1,8 @@
-<img src="imgalumno_matematica.jpg" alt="">
-<img src="imgequipo_futbol.jpg" alt="">
-<img src="imgequipo_inicial.jpg" alt="">
-<img src="imgequipo_voley.jpg" alt="">
-<img src="imgescolta_primaria.jpg" alt="">
-<img src="imgevento_clausura.jpg" alt="">
-<img src="imgnatacion_equipo.jpg" alt="">
+<img src="img/alumno_matematica.jpg" alt="">
+<img src="img/equipo_futbol.jpg" alt="">
+<img src="img/equipo_inicial.jpg" alt="">
+<img src="img/equipo_voley.jpg" alt="">
+<img src="img/escolta_primaria.jpg" alt="">
+<img src="img/evento_clausura.jpg" alt="">
+<img src="img/natacion_equipo.jpg" alt="">
+
